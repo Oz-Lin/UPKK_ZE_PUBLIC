@@ -3752,7 +3752,7 @@
 	"ze_sunkentemple"
 	{
 		"workshop_id" "3418758157"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_sunkentemple"
 		"updatedname" "ze_sunkentemple"
 		"OnlyNominate" "1"
@@ -4176,7 +4176,7 @@
 	"ze_japans_3rd_bombing"
 	{
 		"workshop_id" "3470919800"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_japans_3rd_bombing"
 		"updatedname" "ze_japans_3rd_bombing"
 		"OnlyNominate" "1"
@@ -4438,7 +4438,7 @@
 	"ze_chroma"
 	{
 		"workshop_id" "3486786291"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_chroma"
 		"updatedname" "ze_chroma"
 		"OnlyNominate" "0"
@@ -4494,7 +4494,7 @@
 	"ze_basic_geometric_test"
 	{
 		"workshop_id" "3491374746"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_basic_geometric_test"
 		"updatedname" "ze_basic_geometric_test"
 		"OnlyNominate" "0"
