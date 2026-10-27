@@ -3040,7 +3040,7 @@
 	"ze_embertwin_v1"
 	{
 		"workshop_id" "3357784018"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_embertwin_v1"
 		"updatedname" "ze_embertwin_v1"
 		"OnlyNominate" "1"
@@ -3300,7 +3300,7 @@
 	"ze_SCP_Containment_Breach"
 	{
 		"workshop_id" "3374542647"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_scp_containment_breach"
 		"updatedname" "ze_scp_containment_breach"
 		"OnlyNominate" "1"
@@ -3451,7 +3451,7 @@
 	"ze_obj_redemption"
 	{
 		"workshop_id" "3383451059"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_obj_redemption"
 		"updatedname" "ze_obj_redemption"
 		"OnlyNominate" "1"
@@ -3506,7 +3506,7 @@
 	"ze_hidden_temple"
 	{
 		"workshop_id" "3389448043"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_hidden_temple"
 		"updatedname" "ze_hidden_temple"
 		"OnlyNominate" "1"
@@ -3546,7 +3546,7 @@
 	"ze_gris"
 	{
 		"workshop_id" "3389982625"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "ze_gris"
 		"updatedname" "ze_gris"
 		"OnlyNominate" "1"
